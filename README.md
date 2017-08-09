@@ -14,7 +14,8 @@ koa2 定制化路由
 
 ## router-middleware.js
 koa-router 中间件
-`npm install --save koa-router@7`
+
+    npm install --save koa-router@7
 
 ## get.js
 GET请求数据获取
@@ -25,5 +26,6 @@ POST请求数据获取
 ## post-mideleware.js
 koa-bodyparser中间件
 对于POST请求的处理，koa-bodyparser中间件可以把koa2上下文的formData数据解析到ctx.request.body中
-`npm install --save koa-bodyparser@3`
+
+    npm install --save koa-bodyparser@3
 
