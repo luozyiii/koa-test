@@ -29,3 +29,9 @@ koa-bodyparser中间件
 
     npm install --save koa-bodyparser@3
 
+## 4.0
+index.js 原生koa2实现静态资源服务器
+
+koa-static.js 使用中间件koa-static
+
+
