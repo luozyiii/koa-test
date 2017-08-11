@@ -38,4 +38,13 @@ koa-static.js 使用中间件koa-static
 index.js  koa2使用cookie
 index2.js koa2实现session
 
+## 6.0
+index.js 使用模板引擎
+
+    # 安装koa模板使用中间件
+    npm install --save koa-views
+
+    # 安装ejs模板引擎
+    npm install --save ejs
+
 
